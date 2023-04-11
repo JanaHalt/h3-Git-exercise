@@ -2,3 +2,5 @@
 Git exercise during lesson
 
 hello sunshine
+
+new day today - new things to learn
